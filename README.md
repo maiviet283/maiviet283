@@ -1,5 +1,42 @@
+<div align="center">
+    <a href="https://git.io/typing-svg">
+      <center>
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+My+name+is+Viet.I'm+22+years+old;I+am+a+Student+and+a+Web+Developer.;I+Love+Backend Web+And+Hacking+Website." alt="Typing SVG" />
+      </center>
+    </a>
+    </div>
+    <div align ="center">
+        <p>
+        <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="OS-Linux">
+        <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="ubuntu">
+        <!-- </p>
+        <p> -->
+        <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="OS-Windown">
+        <img src="https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white" alt="windows-11">
+        </p>
+    </div>
+
 # 💫 About Me:
-👋 Hi, I'm Mai Quốc Việt !<br><br>👀 I'm into web development, always eager to learn new things and make cool stuff online.<br><br>🌱 Currently, I'm sharpening my skills in HTML, CSS, JavaScript, and diving into backend technologies like Node.js and C#.<br><br>💞️ I'm up for teaming up on any web projects that need an extra pair of hands!<br><br>📫 You can reach me via email vietmq.21it@vku.udn.vn<br><br>😄 Pronouns: He/Him<br><br>⚡ Fun fact: Nothing
+
+👋 Hi, I'm Mai Quốc Việt!  
+
+🚀 I'm passionate about backend web development and love building robust, scalable web applications.  
+
+💻 Currently, I'm focusing on Django for backend development while refining my skills in Python, JavaScript, HTML, CSS, and PHP.  
+
+🤝 Open to collaborating on web projects, especially those involving backend architecture and API development.  
+
+📩 Reach me at vietmq.21it@vku.udn.vn  
+
+😄 Pronouns: He/Him  
+
+⚡ Fun fact: Always curious about how things work under the hood!  
+
+<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" alt="python" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/python/python.png"></code>
+<code><img height="20" alt="django" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
+<code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>   
 
 
 ## 🌐 Socials:
