@@ -1,13 +1,3 @@
-<div align="center">
-    <a href="https://git.io/typing-svg">
-      <center>
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+My+name+is+Viet.I'm+22+years+old;I+am+a+Student+and+a+Web+Developer.;I+Love+Backend Web+And+Hacking+Website." alt="Typing SVG" />
-      </center>
-    </a>
-</div>
-
-# 💫 About Me:
-
 👋 Hi, I'm Mai Quốc Việt!  
 
 🚀 I'm passionate about backend web development and love building robust, scalable web applications.  
