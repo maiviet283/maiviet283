@@ -1,16 +1,16 @@
-# 👋 Hi, I'm Mai Quốc Việt  
+# Hi, I'm Mai Quốc Việt  
 
 **Backend Developer (Python/FastAPI/Django)** with strong experience in performance optimization, database design, and building scalable backend services.  
 I focus on clean system architecture, high-performance APIs, and efficient data processing.  
 
-### 📫 Contact
+### Contact
 - Email: **maiviet283@gmail.com**
 - Location: **Da Nang, Vietnam**
 - GitHub: **github.com/maiviet283**
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I am a backend engineer specializing in **Python, FastAPI, Django, PostgreSQL, and Redis**, with a solid foundation in **system architecture and information security**.  
 I have hands-on experience working on real-world projects involving:
@@ -24,33 +24,33 @@ I enjoy solving complex backend problems and continuously improving system perfo
 
 ---
 
-## 🧩 Skills
+## Skills
 
-### 🔧 Backend
+### Backend
 - Python, FastAPI, Django, Django REST Framework  
 - Async programming, RESTful API design  
 - Node.js (Express)
 
-### 🗄️ Databases & Caching
+### Databases & Caching
 - PostgreSQL, MySQL  
 - Redis (caching, rate-limiting, performance optimization)
 
-### 🛠 DevOps & System
+### DevOps & System
 - Docker, Nginx, Gunicorn  
 - Ubuntu server deployment  
 - CI/CD fundamentals
 
-### 🎨 Frontend (Familiar)
+### Frontend (Familiar)
 - ReactJS, TypeScript, HTML/CSS
 
-### 🔐 Security
+### Security
 - JWT Authentication  
 - Brute-force prevention, anti-spam, DDoS mitigation  
 - Role-based access control  
 
 ---
 
-## 🏆 Work Experience
+## Work Experience
 
 ### 🔹 Backend Intern – Rikai Technology  
 **06/10/2025 – Present**  
@@ -71,7 +71,7 @@ Key contributions:
 
 ## 🚀 Featured Projects  
 
-### 🛍️ Clothing Shop API  
+### Clothing Shop API  
 **Tech:** Django, DRF, JWT, PostgreSQL, Redis, Gunicorn, Nginx  
 - Built secure and scalable backend for an e-commerce platform.  
 - Applied security protections: brute-force prevention, anti-spam, DDoS mitigation.  
@@ -81,7 +81,7 @@ Key contributions:
 
 ---
 
-### 📚 BookStore Management  
+### BookStore Management  
 **Tech:** Django, DRF, JWT, MySQL, Redis, React TypeScript  
 - Designed modular and scalable architecture.  
 - Implemented caching strategies for heavy queries.  
@@ -90,7 +90,19 @@ Key contributions:
 
 ---
 
-### 🔎 Criminal Investigation Management  
+### Network Intrusion Detection & Alert System  
+**Tech:** Python, Elasticsearch, Zeek, Nginx, Django, Telegram Bot API, ChatGPT API  
+- Built a log-driven intrusion detection system analyzing data from Zeek, Nginx, and Django.  
+- Detected security threats including **DDoS, SQL Injection, XSS, brute-force login attempts**, and abnormal traffic patterns.  
+- Integrated **ChatGPT API** to provide automated response suggestions for detected incidents.  
+- Implemented an alerting pipeline using **Telegram Bot** for real-time notifications to administrators.  
+- Designed a multi-stage architecture consisting of Log Collector → Analyzer → AI Advisor → Notifier.
+
+📌 GitHub: https://github.com/maiviet283/analyze_logs
+
+---
+
+### Criminal Investigation Management  
 **Tech:** Django, MySQL, Sessions  
 - Developed database schema for officers, cases, reports, and patrol assignments.  
 - Implemented role-based access control and patrol management.  
@@ -98,7 +110,7 @@ Key contributions:
 
 ---
 
-### 💬 TalkZone – Real-time Chat (Older Project)  
+### TalkZone – Real-time Chat (Older Project)  
 **Tech:** Node.js, Express, MongoDB, Socket.IO, React  
 - Built real-time messaging with one-on-one & group chat.  
 - Implemented friend requests and group management.  
@@ -110,10 +122,3 @@ Key contributions:
 [LinkedIn](https://linkedin.com/in/maiviet283) • 
 [GitHub](https://github.com/maiviet283) • 
 [Facebook](https://facebook.com/maiviet283)
-
----
-
-## 📈 GitHub Stats
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=maiviet283&show_icons=true&theme=radical" width="48%"/>
-</p>
