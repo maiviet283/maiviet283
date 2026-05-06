@@ -1,124 +1,129 @@
-# Hi, I'm Mai Quốc Việt  
+# Mai Quốc Việt
 
-**Backend Developer (Python/FastAPI/Django)** with strong experience in performance optimization, database design, and building scalable backend services.  
-I focus on clean system architecture, high-performance APIs, and efficient data processing.  
+Backend Engineer focused on building scalable backend systems, high-performance APIs, and production-ready architectures using Python.
 
-### Contact
-- Email: **maiviet283@gmail.com**
-- Location: **Da Nang, Vietnam**
-- GitHub: **github.com/maiviet283**
+I specialize in:
 
----
+- Backend architecture & API design
+- Performance optimization
+- PostgreSQL & Redis optimization
+- Async processing
+- Security-focused backend development
+- Scalable real-world systems
 
-## About Me
-
-I am a backend engineer specializing in **Python, FastAPI, Django, PostgreSQL, and Redis**, with a solid foundation in **system architecture and information security**.  
-I have hands-on experience working on real-world projects involving:
-
-- Large-scale geospatial data  
-- Performance tuning & async migration  
-- Database indexing & query optimization  
-- Caching strategies for high-load systems  
-
-I enjoy solving complex backend problems and continuously improving system performance.
+Currently working mainly with **Python, FastAPI, Django, PostgreSQL, Redis, Docker, and Nginx**.
 
 ---
 
-## Skills
+# Tech Stack
 
-### Backend
-- Python, FastAPI, Django, Django REST Framework  
-- Async programming, RESTful API design  
+## Backend
+- Python
+- FastAPI
+- Django
+- Django REST Framework
 - Node.js (Express)
 
-### Databases & Caching
-- PostgreSQL, MySQL  
-- Redis (caching, rate-limiting, performance optimization)
+## Database & Infrastructure
+- PostgreSQL
+- MySQL
+- Redis
+- Docker
+- Nginx
+- Gunicorn
+- Linux / Ubuntu
 
-### DevOps & System
-- Docker, Nginx, Gunicorn  
-- Ubuntu server deployment  
-- CI/CD fundamentals
+## Engineering Focus
+- Async architecture
+- Query optimization
+- Database indexing
+- Caching strategies
+- RESTful API design
+- System performance tuning
+- Security hardening
+- Scalable backend systems
 
-### Frontend (Familiar)
-- ReactJS, TypeScript, HTML/CSS
-
-### Security
-- JWT Authentication  
-- Brute-force prevention, anti-spam, DDoS mitigation  
-- Role-based access control  
-
----
-
-## Work Experience
-
-### 🔹 Backend Intern – Rikai Technology  
-**06/10/2025 – Present**  
-Worked on an optimal **route-finding system for the entire map of Japan**.
-
-Key contributions:
-- Implemented routing logic for **railway and waterway networks** using FastAPI + GeoPandas.  
-- Optimized routing algorithms, reducing execution time **from 58s to 0.7s**.  
-- Converted the entire service from **synchronous to asynchronous in 3 days**, improving throughput.  
-- Re-structured PostgreSQL schema, redesigned indexing strategies, and optimized pgRouting functions.  
-
-### 🔹 Networking Intern – VNNIC  
-**01/06/2024 – 02/08/2024**
-- Studied networking concepts, protocols, routing models, and security fundamentals.  
-- Used monitoring tools (Nagios, ELK Stack) for system status analysis and alert handling.
+## Frontend (Familiar)
+- ReactJS
+- TypeScript
+- HTML/CSS
 
 ---
 
-## 🚀 Featured Projects  
+# Experience
 
-### Clothing Shop API  
-**Tech:** Django, DRF, JWT, PostgreSQL, Redis, Gunicorn, Nginx  
-- Built secure and scalable backend for an e-commerce platform.  
-- Applied security protections: brute-force prevention, anti-spam, DDoS mitigation.  
-- Added Redis caching + optimized performance.  
-📌 GitHub: https://github.com/maiviet283/my_shop  
-🌐 Live: https://my-shop-4d9w.onrender.com/
+## Backend Intern — Rikai Technology
+📍 Japan Map Routing System  
+📅 10/2025 — Present
 
----
+Worked on a nationwide route-finding system for Japan using FastAPI, GeoPandas, PostgreSQL, and pgRouting.
 
-### BookStore Management  
-**Tech:** Django, DRF, JWT, MySQL, Redis, React TypeScript  
-- Designed modular and scalable architecture.  
-- Implemented caching strategies for heavy queries.  
-- Built modern frontend using React + TypeScript.  
-📌 GitHub: https://github.com/maiviet283/bookstore
+### Key Contributions
+- Built routing modules for railway and waterway transportation systems
+- Optimized route calculation performance from **58s → 0.7s**
+- Migrated backend architecture from synchronous → asynchronous within 3 days
+- Redesigned PostgreSQL schema and indexing strategies
+- Optimized pgRouting queries for lower latency and higher throughput
+- Improved scalability for large geospatial datasets
 
 ---
 
-### Network Intrusion Detection & Alert System  
-**Tech:** Python, Elasticsearch, Zeek, Nginx, Django, Telegram Bot API, ChatGPT API  
-- Built a log-driven intrusion detection system analyzing data from Zeek, Nginx, and Django.  
-- Detected security threats including **DDoS, SQL Injection, XSS, brute-force login attempts**, and abnormal traffic patterns.  
-- Integrated **ChatGPT API** to provide automated response suggestions for detected incidents.  
-- Implemented an alerting pipeline using **Telegram Bot** for real-time notifications to administrators.  
-- Designed a multi-stage architecture consisting of Log Collector → Analyzer → AI Advisor → Notifier.
+## Networking Intern — VNNIC
+📅 06/2024 — 08/2024
 
-📌 GitHub: https://github.com/maiviet283/analyze_logs
+- Studied networking architecture, routing models, and infrastructure security
+- Worked with monitoring systems including Nagios and ELK Stack
+- Learned operational monitoring and incident analysis workflows
 
 ---
 
-### Criminal Investigation Management  
-**Tech:** Django, MySQL, Sessions  
-- Developed database schema for officers, cases, reports, and patrol assignments.  
-- Implemented role-based access control and patrol management.  
-📌 GitHub: https://github.com/maiviet283/crime_investigation_system
+# Featured Projects
+
+## VietDon *(Personal Project)*
+Online donation platform for Vietnamese streamers.
+
+### Architecture
+- Django 5 + DRF
+- ASGI + Django Channels
+- PostgreSQL 17
+- Redis 7
+- Celery + Celery Beat
+- Nginx
+- Cloudflare R2
+- JWT Authentication
+
+### Engineering Highlights
+- Real-time WebSocket notification system
+- Async backend architecture
+- Redis caching & rate limiting
+- Background task processing with Celery
+- Presigned upload flow using Cloudflare R2
+- Secure authentication with HttpOnly refresh token strategy
+- Service-oriented backend structure
+
+### Current Responsibilities
+- System architecture
+- Backend development
+- Database design
+- Infrastructure setup
+- Security optimization
+- Performance tuning
 
 ---
 
-### TalkZone – Real-time Chat (Older Project)  
-**Tech:** Node.js, Express, MongoDB, Socket.IO, React  
-- Built real-time messaging with one-on-one & group chat.  
-- Implemented friend requests and group management.  
-📌 GitHub: https://github.com/maiviet283/nodejs-web-chat
+## Network Intrusion Detection & Alert System
+Security monitoring & attack detection pipeline.
 
----
+### Tech
+Python, Elasticsearch, Zeek, Django, Nginx, Telegram Bot API
 
-## 🌐 Socials
-[LinkedIn](https://linkedin.com/in/maiviet283) • 
-[GitHub](https://github.com/maiviet283) • 
-[Facebook](https://facebook.com/maiviet283)
+### Features
+- DDoS detection
+- SQL Injection detection
+- XSS detection
+- Brute-force detection
+- Traffic anomaly analysis
+- Real-time alert pipeline
+- AI-assisted incident response suggestions
+
+### Architecture
