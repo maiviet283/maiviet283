@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mai Quốc Việt</h1>
 <h3 align="center">Backend Developer focused on performance, system design and scalable backend architecture</h3>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=maiviet283&label=Profile%20views&color=0e75b6&style=flat" alt="maiviet283" />
-</p>
 
 - 🔭 Currently building **VietDon** — an online donation platform for Vietnamese streamers
 
@@ -105,13 +102,5 @@ Features:
 <h3 align="left">GitHub Stats</h3>
 
 <p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=maiviet283&show_icons=true&locale=en" alt="maiviet283" />
-</p>
-
-<p>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maiviet283&" alt="maiviet283" />
-</p>
-
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=maiviet283&show_icons=true&locale=en&layout=compact" alt="maiviet283" />
 </p>
