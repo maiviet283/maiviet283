@@ -62,11 +62,3 @@ Production-style e-commerce backend built with Django REST Framework.
 **Features:** JWT auth · Redis caching · brute-force prevention · request validation · production deployment with Nginx + Gunicorn
 
 🔗 Code: https://github.com/maiviet283/my_shop
-
----
-
-### GitHub Stats
-
-<p align="left">
-<img src="https://streak-stats.demolab.com/?user=maiviet283&hide_border=true" alt="maiviet283 streak" height="170" />
-</p>
