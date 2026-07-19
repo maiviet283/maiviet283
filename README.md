@@ -47,7 +47,7 @@ Online donation platform for Vietnamese streamers, with live on-screen alerts an
 
 **Features:** realtime donation alerts · WebSocket notifications · OBS integration · async processing · Redis caching · JWT authentication · anti-spam & rate limiting
 
-🔗 Live: https://vietdon.vn · Code: https://github.com/maiviet283/vietdon
+🔗 Live: https://vietdon.vn · Code: https://github.com/vietdon/vietdon
 
 #### 🛡️ Network Intrusion Detection System
 Security monitoring system using Zeek + Elasticsearch + Python to detect threats from network traffic.
