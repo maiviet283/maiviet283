@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="470" viewBox="0 0 1200 470" role="img" aria-labelledby="t d">
+  <title id="t">whoami — Mai Quốc Việt</title>
+  <desc id="d">Full-Stack Developer and Team Lead at BNH Digital (Australia, remote). Based in Da Nang, Vietnam. B.Eng. Information Security, VKU, GPA 8.2/10. Stack: Python, Django, FastAPI, React, TypeScript, PostgreSQL, Redis. Currently building Haven, a home-doctor platform, as co-founder and lead engineer.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0d1321"/>
+      <stop offset="100%" stop-color="#080c16"/>
+    </linearGradient>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#22d3ee" stop-opacity=".7"/>
+      <stop offset="50%" stop-color="#334155" stop-opacity=".6"/>
+      <stop offset="100%" stop-color="#c084fc" stop-opacity=".7"/>
+    </linearGradient>
+    <clipPath id="c1"><rect x="-10" y="-40" width="0" height="80"><animate attributeName="width" from="0" to="1200" begin=".4s" dur=".7s" fill="freeze" calcMode="linear"/></rect></clipPath>
+    <clipPath id="c2"><rect x="-10" y="-40" width="0" height="80"><animate attributeName="width" from="0" to="1200" begin="1.7s" dur=".9s" fill="freeze"/></rect></clipPath>
+    <clipPath id="c3"><rect x="-10" y="-40" width="0" height="80"><animate attributeName="width" from="0" to="1200" begin="5.6s" dur=".9s" fill="freeze"/></rect></clipPath>
+    <style>
+      text { font-family: 'JetBrains Mono','Fira Code','Cascadia Code',Consolas,'Courier New',monospace; font-size: 18px; }
+      .p { fill: #4ade80 } .path { fill: #22d3ee } .cmd { fill: #e2e8f0 }
+      .k { fill: #c084fc } .v { fill: #fbbf24 } .s { fill: #a5f3fc } .c { fill: #64748b } .w { fill: #e2e8f0 } .y { fill: #f472b6 }
+      .ln { opacity: 0; animation: show .35s ease forwards }
+      @keyframes show { from { opacity: 0; transform: translateX(-6px) } to { opacity: 1; transform: none } }
+      .cur { animation: blink 1s steps(1) infinite }
+      @keyframes blink { 50% { opacity: 0 } }
+    </style>
+  </defs>
+
+  <rect x="1" y="1" width="1198" height="468" rx="16" fill="url(#bg)" stroke="url(#edge)" stroke-width="2"/>
+  <!-- title bar -->
+  <path d="M1 17a16 16 0 0 1 16-16h1166a16 16 0 0 1 16 16v29H1z" fill="#111827"/>
+  <circle cx="30" cy="24" r="7" fill="#ff5f57"/><circle cx="54" cy="24" r="7" fill="#febc2e"/><circle cx="78" cy="24" r="7" fill="#28c840"/>
+  <text x="600" y="30" text-anchor="middle" font-size="14" class="c">viet@danang: ~ — zsh</text>
+
+  <!-- line 1: whoami -->
+  <g transform="translate(36 90)">
+    <g clip-path="url(#c1)"><text><tspan class="p">➜</tspan> <tspan class="path">~</tspan> <tspan class="cmd">whoami</tspan></text></g>
+  </g>
+  <g transform="translate(36 122)"><g class="ln" style="animation-delay:1.2s">
+    <text class="w">Mai Quốc Việt <tspan class="c">—</tspan> <tspan class="s">full-stack developer &amp; team lead</tspan></text>
+  </g></g>
+
+  <!-- line 2: cat profile -->
+  <g transform="translate(36 170)">
+    <g clip-path="url(#c2)"><text><tspan class="p">➜</tspan> <tspan class="path">~</tspan> <tspan class="cmd">cat profile.yaml</tspan></text></g>
+  </g>
+  <g transform="translate(36 204)"><g class="ln" style="animation-delay:2.8s"><text><tspan class="k">role:</tspan>       <tspan class="v">Full-Stack Developer &amp; Team Lead @ BNH Digital</tspan> <tspan class="c"># AU agency, remote</tspan></text></g></g>
+  <g transform="translate(36 234)"><g class="ln" style="animation-delay:3.1s"><text><tspan class="k">building:</tspan>   <tspan class="v">Haven</tspan> <tspan class="c">— home-doctor platform, co-founder &amp; lead engineer</tspan></text></g></g>
+  <g transform="translate(36 264)"><g class="ln" style="animation-delay:3.4s"><text><tspan class="k">location:</tspan>   <tspan class="v">Da Nang, Vietnam</tspan></text></g></g>
+  <g transform="translate(36 294)"><g class="ln" style="animation-delay:3.7s"><text><tspan class="k">education:</tspan>  <tspan class="v">B.Eng. Information Security @ VKU</tspan> <tspan class="c"># GPA 8.2/10</tspan></text></g></g>
+  <g transform="translate(36 324)"><g class="ln" style="animation-delay:4.0s"><text><tspan class="k">stack:</tspan>      <tspan class="w">[</tspan><tspan class="s">Python, Django, FastAPI, React, TypeScript, PostgreSQL, Redis</tspan><tspan class="w">]</tspan></text></g></g>
+  <g transform="translate(36 354)"><g class="ln" style="animation-delay:4.3s"><text><tspan class="k">obsessed:</tspan>   <tspan class="w">[</tspan><tspan class="s">performance, security, clean architecture, zero-downtime</tspan><tspan class="w">]</tspan></text></g></g>
+  <g transform="translate(36 384)"><g class="ln" style="animation-delay:4.6s"><text><tspan class="k">open_to:</tspan>    <tspan class="y">backend / full-stack roles</tspan> <tspan class="c"># let's talk ↓</tspan></text></g></g>
+
+  <!-- line 3: prompt -->
+  <g transform="translate(36 432)">
+    <g clip-path="url(#c3)"><text><tspan class="p">➜</tspan> <tspan class="path">~</tspan> <tspan class="cmd">git push origin career --force-with-lease</tspan></text></g>
+    <g opacity="0"><set attributeName="opacity" to="1" begin="6.6s" fill="freeze"/><rect class="cur" x="512" y="-16" width="10" height="20" fill="#22d3ee"/></g>
+  </g>
+</svg>
